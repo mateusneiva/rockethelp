@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "9812726590",
+    "project_id": "paia-1908c",
+    "storage_bucket": "paia-1908c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9812726590:android:ab93a0f66dc8979497926f",
+        "android_client_info": {
+          "package_name": "com.mateusneiva.paia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9812726590-o524o7enq47sq8eajr1t345vsncpetg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Vxf4P875_uV-X_WHZ2k3sCLa7LhOTDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9812726590-o524o7enq47sq8eajr1t345vsncpetg3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "9812726590-c2olqtprvgvirbll86lp9i8su5th4e75.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mateusneiva.paia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,10 +1,20 @@
 {
   "expo": {
-    "name": "rockethelp",
-    "slug": "rockethelp",
+    "name": "Paia",
+    "slug": "paia",
+    "icon": "./src/assets/appicon.png",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["@react-native-firebase/app"],
+    "android": {
+      "package": "com.mateusneiva.paia",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.mateusneiva.paia",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "buildNumber": "1.0.0"
+    }
   }
 }
